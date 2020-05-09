@@ -1,5 +1,5 @@
 # SuspensionPerformanceApp
-Conducting performance studies in vehicle suspension systems
+Performance studies in vehicle suspension systems
 
 These files are further developments of my final year project (title above) for the degree of BEng Mechanical Engineering at the University of Nottingham
 
