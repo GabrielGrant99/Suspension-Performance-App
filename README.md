@@ -1,7 +1,9 @@
 # SuspensionPerformanceApp
 Performance studies in vehicle suspension systems
 
-These files are further developments of my final year project (title above) for the degree of BEng Mechanical Engineering at the University of Nottingham
+This application is a further development of my final year project (title above) for the degree of:
+
+BEng Mechanical Engineering at the University of Nottingham
 
 The suspension performance application is a simple MATLAB application for vehicle suspension performance analysis and parameter optimisation
 
