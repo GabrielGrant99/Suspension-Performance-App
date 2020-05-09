@@ -18,6 +18,7 @@ To install the Matlab application:
 4. Complete the installation wizard
 
 Author - Gabriel Grant
+
 Author Email - gabe.grant07@gmail.com
 
 
