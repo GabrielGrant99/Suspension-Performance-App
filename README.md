@@ -7,8 +7,10 @@ The suspension performance application is a simple MATLAB application for vehicl
 
 The optimisable paramters are the stiffness and damping constants/coefficients of the vehicle suspension system
 
+All calculations are performed using the four degree-of-freedom half vehicle model. 
+Unless stated otherwise, values obtained are those of the front axle of the vehicle.
 
-The .mlappinstall file is for installing the application with Matlab's applications folder. With this, the app can be accessed within Matlab under the 'Apps' tab. 
+The .mlappinstall file is for installing the application within Matlab's applications folder. With this, the application can be accessed in Matlab under the 'Apps' tab. 
 
 To install the Matlab application:
 
