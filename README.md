@@ -9,6 +9,8 @@ The optimisable paramters are the stiffness and damping constants/coefficients o
 All calculations are performed using the four degree-of-freedom half vehicle model. 
 Unless stated otherwise, values obtained are those of the front axle of the vehicle.
 
+The programming software: MATLAB is required to run this application
+
 The .mlappinstall file is for installing the application within Matlab's applications folder. With this, the application can be accessed in Matlab under the 'Apps' tab. 
 
 To install the Matlab application:
