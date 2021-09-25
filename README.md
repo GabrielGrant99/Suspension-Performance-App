@@ -2,7 +2,7 @@
 
 This application is a further development of my final year project (Performance studies in vehicle suspension systems) for the degree of: BEng Mechanical Engineering at the University of Nottingham.
 
-The suspension performance application is a simple MATLAB application for vehicle suspension performance analysis and parameter optimisation.
+The suspension performance application is a MATLAB application for vehicle suspension performance analysis and parameter optimisation.
 
 The optimisable paramters are the stiffness and damping constants/coefficients of the vehicle suspension system.
 
